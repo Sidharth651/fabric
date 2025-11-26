@@ -3,7 +3,6 @@ import hero2 from "../assets/hero-2.png";
 import hero3 from "../assets/hero-3.png";
 import hero4 from "../assets/hero-4.png";
 import hero5 from "../assets/hero-5.png";
-import storyImg from "../assets/story.png";
 import best1 from "../assets/best-1.png";
 import best2 from "../assets/best-2.png";
 import best3 from "../assets/best-3.png";
@@ -111,5 +110,3 @@ export const arrivals = [
   { title: "MALAI CHANDERI SUIT SET", price: "₹ 1,999.00", image: arrival7 },
   { title: "MALAI CHANDERI SUIT SET", price: "₹ 1,999.00", image: arrival8 },
 ];
-
-export { storyImg };
