@@ -1,5 +1,8 @@
 import hero1 from "../assets/hero-1.png";
 import hero2 from "../assets/hero-2.png";
+import hero3 from "../assets/hero-3.png";
+import hero4 from "../assets/hero-4.png";
+import hero5 from "../assets/hero-5.png";
 import storyImg from "../assets/story.png";
 import best1 from "../assets/best-1.png";
 import best2 from "../assets/best-2.png";
@@ -43,6 +46,24 @@ export const heroSlides = [
   },
   {
     image: hero2,
+    headline: "Mix & Match Best Sellers",
+    subhead: "Handpicked silk, muslin, and cotton creations loved by artisans.",
+    cta: "Shop Best Sellers",
+  },
+  {
+    image: hero3,
+    headline: "Mix & Match Best Sellers",
+    subhead: "Handpicked silk, muslin, and cotton creations loved by artisans.",
+    cta: "Shop Best Sellers",
+  },
+  {
+    image: hero4,
+    headline: "Mix & Match Best Sellers",
+    subhead: "Handpicked silk, muslin, and cotton creations loved by artisans.",
+    cta: "Shop Best Sellers",
+  },
+  {
+    image: hero5,
     headline: "Mix & Match Best Sellers",
     subhead: "Handpicked silk, muslin, and cotton creations loved by artisans.",
     cta: "Shop Best Sellers",
